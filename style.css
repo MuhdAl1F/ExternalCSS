@@ -1,7 +1,8 @@
     body {
-        font-family: Calibri, Helvetica, sans-serif;
-		margin:0;
-    margin:0;
+     font-family: Calibri, Helvetica, sans-serif;
+	 margin:0;
+     margin:0;
+	 background-color: white;">
     }
     /* Header/Logo Title */
     .header {
@@ -30,4 +31,11 @@
         background-color: #ddd;
         color: black;
     }
+	.div{
+		padding-left: 16px;
+	}
+	.td{
+		padding: 10%;
+	}
+	
 	
